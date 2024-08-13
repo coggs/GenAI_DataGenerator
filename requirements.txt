@@ -1,0 +1,7 @@
+oracledb
+faker
+geopy
+global-land-mask
+oci
+numpy
+requests
